@@ -1,0 +1,8 @@
+Data
+.env
+Frontend/Graphics
+Frontend/GUI.py
+.venv
+Backend/Automation.py
+Backend/Model.py
+Backend/Chatbot.py
