@@ -2,8 +2,7 @@ Data
 .env
 Frontend/Graphics
 Frontend/GUI.py
-Frontend/Files/Database.Data
-Frontend/Files/Responses.data
+Frontend/Files
 .venv
 Backend/Automation.py
 Backend/Model.py
