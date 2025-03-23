@@ -189,7 +189,7 @@ def FirstThread():
                 
 def SecondThread():
     
-    GraphicalUserInterface()
+    GraphicalUserInterface() 
     
 if __name__ == "__main__":
     thread2 = threading.Thread(target=FirstThread, daemon=True)
