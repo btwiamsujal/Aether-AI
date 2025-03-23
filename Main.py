@@ -5,7 +5,7 @@ from Frontend.GUI import (
     TempDirectoryPath,
     SetMicrophoneStatus,
     AnswerModifier,
-    QueryModifier,
+    QueryModifier, 
     GetMicrophoneStatus,
     GetAssistantStatus
 )
