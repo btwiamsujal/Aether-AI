@@ -2,7 +2,7 @@
 
 AetherAI is an intelligent virtual assistant designed to help automate tasks, answer queries, and boost productivity using AI-driven natural language understanding.
 
-## 🚀 Features
+## 🚀 Features 
 - Natural Language Processing (NLP) for human-like conversations
 - Task automation and response generation
 - Modular, easily extensible design
