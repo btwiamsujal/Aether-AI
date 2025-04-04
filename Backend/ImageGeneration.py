@@ -25,7 +25,7 @@ def Open_image(prompt):
             print(f"Unable to open {image_path}")
             
 API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-headers = {"Authorization": f"Bearer {get_key('.env', 'HUGGINGFACEAPIKEY')}"}
+headers = {"Authorization": f"Bearer {get_key('.env', 'HUGGINGFACEAPIKEY')}"} 
 
 async def query(payload):
     response = await asyncio.to_thread(requests.post, API_URL, headers=headers, json=payload)
