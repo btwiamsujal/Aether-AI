@@ -8,7 +8,7 @@ from Frontend.GUI import (
     QueryModifier, 
     GetMicrophoneStatus,
     GetAssistantStatus
-)
+) 
 from Backend.Model import FirstLayerDMM
 from Backend.RealtimeSearchEngine import RealtimeSearchEngine
 from Backend.Automation import Automation
